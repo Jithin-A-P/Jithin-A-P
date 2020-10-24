@@ -1,6 +1,6 @@
 ### Hi there, I'm Jithin A P 👋
 
-## I'm a Student as well as a Devloper!!
+## I'm a Student as well as an App Devloper!!
 
 - 🌱 I’m currently learning Fluter and ML 
 - 👯 I’m looking to collaborate with literarly anyone
