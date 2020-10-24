@@ -43,7 +43,12 @@
   <!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
 </details>
 
-<!--GITHUB_REPOS:{"rows": 4, "raw": true}-->
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Jithin-A-P's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jithin-A-P&show_icons=true&hide_border=true&count_private=true" />
+
+</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
