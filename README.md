@@ -40,7 +40,7 @@
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
-  <!--START_SECTION:activity-->
+<!--START_SECTION:activity-->
 </details>
 
 <!--GITHUB_REPOS:{"rows": 4, "raw": true}-->
