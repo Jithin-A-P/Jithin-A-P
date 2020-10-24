@@ -52,4 +52,4 @@
 
 [twitter]: https://twitter.com/Jithin_A_P
 [instagram]: https://instagram.com/jithin._._
-[linkedin]: www.linkedin.com/in/jithin-a-p
+[linkedin]: https://linkedin.com/in/jithin-a-p
