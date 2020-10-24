@@ -43,6 +43,8 @@
   <!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
 </details>
 
+<!--GITHUB_REPOS:{"rows": 4, "raw": true}-->
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
