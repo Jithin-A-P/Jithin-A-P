@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning Fluter and ML 
 - 👯 I’m looking to collaborate with literarly anyone
 - 🥅 2021 Goals: Start contributing to Open Source projects
-- ⚡ Fun fact: I love to sit ideally
 
 
 ### Connect with me:
