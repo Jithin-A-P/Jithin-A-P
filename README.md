@@ -1,10 +1,9 @@
 ### Hi there, I'm Jithin A P 👋
 
-## I'm a Student as well as an App Devloper!!
+## I'm a Student as well as an App/Web Developer!!
 
-- 🌱 I’m currently learning Fluter and ML 
-- 👯 I’m looking to collaborate with literarly anyone
-- 🥅 2021 Goals: Start contributing to Open Source projects
+- 🌱 I’m currently learning Web Development 
+- 🥅 2023 Goals: Get a grasp of full stack developement
 
 
 ### Connect with me:
